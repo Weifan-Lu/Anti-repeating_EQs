@@ -1,4 +1,4 @@
-# Anti-Repeating Earthquake Dataset – README
+# Anti-Repeating Earthquake Dataset
 
 This dataset contains information on **anti‑repeating earthquakes** (also known as waveform‑inverse repeating earthquakes) detected in the NN seismic network. The data are organized into two CSV files and one PDF document that illustrates the most significant earthquake families.
 
