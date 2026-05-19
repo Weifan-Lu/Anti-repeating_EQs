@@ -6,39 +6,39 @@ This dataset contains information on **anti‑repeating earthquakes** (also know
 
 | File | Description |
 |------|-------------|
-| `anti_repeating_earthquakes.csv` | List of all 37 anti‑repeating earthquakes. |
-| `anti_repeating_pairs.csv` | List of the 42 anti‑repeating earthquake pairs, including the stations that recorded each pair. |
-| `family.pdf` | A PDF figure showing the most significant anti‑repeating families, with examples of waveform‑inverse relationships. |
+| `NV_anti_repeating_qs_catalog.csv` | List of all 37 anti‑repeating earthquakes. |
+| `NV_anti_repeating_eqs_pairs.csv` | List of the 42 anti‑repeating earthquake pairs, including the stations that recorded each pair. |
+| `families.pdf` | A PDF figure showing the most significant anti‑repeating families. |
 
 ---
 
 ## File Formats
 
-### 1. `anti_repeating_earthquakes.csv`
+### 1. `NV_anti_repeating_qs_catalog.csv`
 
 - **Rows:** 37 earthquakes, each identified by a unique sequential number.
 - **Columns:**
-  - **Column 1:** Event index (1‑based, corresponding to descriptions in the PDF and pairs file).
-  - **Columns 2+:** Descriptive information for each event (e.g., origin time, magnitude, location – exact fields depend on the original data).
+  - **Column 1:** Event index (1‑based, corresponding to descriptions in the PDF file).
+  - **Columns 2+:** Descriptive information for each event (e.g., origin time, location, magnitude).
 
 > The event index in the first column links this file to the pairs file and to the families illustrated in `family.pdf`.
 
-### 2. `anti_repeating_pairs.csv`
+### 2. `NV_anti_repeating_eqs_pairs.csv`
 
 - **Rows:** 42 pairs of earthquakes that exhibit anti‑repeating behaviour (waveforms are opposite in polarity).
 - **Columns:**
   - Each row contains the two event indices that form an anti‑repeating pair.
-  - An additional column named **`station`** lists the seismic station(s) of the NN network that recorded this pair. Multiple stations may be listed per row.
+  - **`station`** lists the seismic station(s) of the **NN** network that recorded this pair. Multiple stations may be listed per row.
 
 > All data come from the **NN** seismic network.
 
 ---
 
-## Significant Families (from `family.pdf`)
+## Significant Families (from `families.pdf`)
 
 The PDF file highlights the most prominent families of anti‑repeating earthquakes. A **family** is defined as a group of events where every member shows waveform inversion with respect to a reference event or with other members.
 
-Examples given in `family.pdf`:
+Examples given in `families.pdf`:
 
 - **Family 1** – centred on **event 8**  
   *Waveform‑inverse relationships:*  
