@@ -40,11 +40,11 @@ The PDF file highlights the most prominent families of anti‑repeating earthqua
 
 Examples given in `families.pdf`:
 
-- **Family 1** – centred on **event 8**  
+- **Family (a)** – centred on **event 8**  
   *Waveform‑inverse relationships:*  
   Event 8  ↔  events 7, 9, 10, 17
 
-- **Family 2** – centred on **event 19**  
+- **Family (c)** – centred on **event 19**  
   *Waveform‑inverse relationships:*  
   Event 19  ↔  events 12, 18, 16, 9, 10, 20
 
