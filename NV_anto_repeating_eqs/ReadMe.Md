@@ -52,9 +52,12 @@ These examples illustrate how families are defined. Additional families can be i
 
 
 ---
+## Citation
 
-## Contact / Citation
+If you use this dataset, please cite the following article:
 
-If you use this dataset, please cite the original data source (as described in the accompanying publication or metadata). For questions, refer to the authors of the dataset.
+Lu, W., Ide, S. & Yue, H. Small-scale stress heterogeneity inferred from many anti-repeating earthquakes in Sierra Valley, Nevada. *Earth, Planets and Space* **77**, 142 (2025). https://doi.org/10.1186/s40623-025-02273-y
+
+---
 
 *Last updated: 2026‑05‑19*
