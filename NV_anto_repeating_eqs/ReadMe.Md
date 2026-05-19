@@ -50,23 +50,6 @@ Examples given in `families.pdf`:
 
 These examples illustrate how families are defined. Additional families can be identified by analysing the full pair list and the earthquake descriptions.
 
----
-
-## How to Use the Data
-
-1. **Load the CSV files** into your preferred analysis environment (Python, MATLAB, R, etc.).
-2. **Match event indices** between the two CSV files to obtain full descriptive information for each pair.
-3. **Consult `family.pdf`** to understand the manually identified significant families.
-4. **Use the station information** to explore the spatial distribution and network response for each anti‑repeating pair.
-
----
-
-## Notes
-
-- An **anti‑repeating earthquake** is characterised by a waveform that is the inverse (opposite polarity) of another earthquake at the same station(s), usually indicating a similar source mechanism but reversed slip direction.
-- The total number of individual anti‑repeating events is **37**.  
-  The total number of confirmed pairs (mutual inverse relationships) is **42**.
-- All data are from the **NN** seismic network. Station codes are provided as they appear in the original recordings.
 
 ---
 
